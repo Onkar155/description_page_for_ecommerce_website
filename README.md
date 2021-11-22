@@ -1,2 +1,1 @@
-# module2-solution
-this is the solution of the module 2 
+this single page of the E-commerce website
